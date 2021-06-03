@@ -21,7 +21,6 @@ while (add == true) {
     console.log(`The sum is ${sum}.`)
     }
 
-   
-    
 }
-
+    /*I mad a program that counts and sums the count instead of one that sums user input,
+    but I understand the concept more after Alex's explanation */

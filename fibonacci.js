@@ -8,9 +8,9 @@ let sum = 0;
 let count = 0;
 
  while (input !== count) {
-    count++
     sum = num1+num2;
     num1 = num2;
     num2 = sum;
+    count++
     console.log(sum)
  }
